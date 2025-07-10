@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo\\CView\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo\\CView\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\ConnDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo\\CData\\SQL\\ConnDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\C_ManageSql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo\\CData\\SQL\\C_ManageSql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frm1Cli.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Codigo\\CView\\frm1Cli.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T03:55:29.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnDB.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\ConnDB.cs",
+              "RelativeDocumentMoniker": "Codigo\\CData\\SQL\\ConnDB.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\ConnDB.cs",
+              "RelativeToolTip": "Codigo\\CData\\SQL\\ConnDB.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:17:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C_ManageSql.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\C_ManageSql.cs",
+              "RelativeDocumentMoniker": "Codigo\\CData\\SQL\\C_ManageSql.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CData\\SQL\\C_ManageSql.cs",
+              "RelativeToolTip": "Codigo\\CData\\SQL\\C_ManageSql.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:16:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\Program.cs",
+              "RelativeDocumentMoniker": "Codigo\\CView\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\Program.cs",
+              "RelativeToolTip": "Codigo\\CView\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:04:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Codigo\\CView\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frmLogin.cs",
+              "RelativeToolTip": "Codigo\\CView\\frmLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:03:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm1Cli.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frm1Cli.Designer.cs",
+              "RelativeDocumentMoniker": "Codigo\\CView\\frm1Cli.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\NicolasQuindeUG\\Proyecto_BDA_grupo_2\\Codigo\\CView\\frm1Cli.Designer.cs",
+              "RelativeToolTip": "Codigo\\CView\\frm1Cli.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:51:27.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
